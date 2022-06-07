@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiZi-2000&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiZi-2000&layout=compact&hide=javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Frameworks**
