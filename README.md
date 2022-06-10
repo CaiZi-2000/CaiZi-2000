@@ -1,7 +1,6 @@
 ### Hello! Welcome to visit my home page. 👋
 
-<!--
-**CaiZi-2000/CaiZi-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiZi-2000&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiscoding&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiZi-2000&layout=compact&hide=javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiscoding&layout=compact&hide=javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Frameworks**
 
@@ -38,4 +37,4 @@ Here are some ideas to get you started:
 
 ### Yo! Look at this snake eating up my contributions!
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/CaiZi-2000/CaiZi-2000/main/assets/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/caiscoding/caiscoding/main/assets/github-contribution-grid-snake.svg)
